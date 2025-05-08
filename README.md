@@ -5,12 +5,6 @@ Este projeto demonstra de forma simples e interativa o processo de votação ele
 
 ---
 
-## 📸 Demonstração
-
-![Urna Eletrônica](https://flavianna-saldanha.github.io/urna-eletronica/) 
-
----
-
 ## 🧠 Funcionalidades
 
 Simulação de etapas eleitorais.
